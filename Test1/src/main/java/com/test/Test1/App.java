@@ -12,5 +12,6 @@ public class App
         System.out.println( "Practice git" );
 	int a=100;
 	System.out.println("value " +a);
+//comment for testing purpose
     }
 }
