@@ -13,5 +13,6 @@ public class App
 	int a=100;
 	System.out.println("value " +a);
 //comment for testing purpose
+int  flag=0;
     }
 }
