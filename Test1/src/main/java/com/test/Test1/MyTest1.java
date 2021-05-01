@@ -6,4 +6,6 @@ public class MyTest1 {
 		return tst;
 	}
 
+	int qwer=1000090;
+
 }
